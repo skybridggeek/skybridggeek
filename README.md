@@ -19,4 +19,4 @@ I’m interested in the intersection of **business, technology, and innovation**
 
 > Learn continuously. Build practically. Solve meaningful problems.
 
-Always learning, experimenting, and building something new.
+
