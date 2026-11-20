@@ -17,6 +17,6 @@ I’m interested in the intersection of **business, technology, and innovation**
  
 ## My Approach
 
-> Learn continuously. Build practically. Solve meaningful problems.
+> *Learn continuously. Build practically. Solve meaningful problems.*
 
 
