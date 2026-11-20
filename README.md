@@ -9,7 +9,7 @@ I’m interested in the intersection of **business, technology, and innovation**
 -  Artificial Intelligence and AI-powered applications
 -  Business management and digital transformation
 -  ERP, and supply chain management
--  Working on my Bachelor's Project *(Scope Lens)*
+-  Working on my Bachelor's Project *(SCOPE Lens)*
 
 ## Tech & Tools
 
