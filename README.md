@@ -12,8 +12,8 @@ I’m interested in the intersection of **business, technology, and innovation**
 
 ## Tech & Tools
 
-`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Supabase` · `Tailwind CSS`
-
+`SQL` · `TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Tailwind CSS` · `Claude Code` · `Codex` · `Google AI`
+ 
 ## My Approach
 
 > Learn continuously. Build practically. Solve meaningful problems.
